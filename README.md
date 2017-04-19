@@ -69,6 +69,7 @@
 ## 联系方式
 
 简历投递 liyatang@xiaonongnv.com
+
 微信号 wxliyatang
 
 ![](http://i4.buimg.com/567571/0e70df4e5856f5ad.png)
