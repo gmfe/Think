@@ -52,7 +52,7 @@
 ### react-native开发
 
 - 熟悉Android平台特性和开发基础，有一定复杂项目App经验
-- 熟悉javascript es6/7，熟悉react react-naive，熟悉一种数据流flux、redux、mobx，有RN项目开发经验
+- 熟悉javascript es6/7，熟悉react react-native，熟悉一种数据流flux、redux、mobx，有RN项目开发经验
 - 编程基础扎实，有良好的工作及编程习惯
 - mac开发
 - 进取，合作，主动。
