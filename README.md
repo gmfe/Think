@@ -2,6 +2,8 @@
 
 观麦前端团队的官方博客，欢迎外界人士给予客观评价
 
+---
+
 # 招聘
 
 ## 我们是谁
@@ -18,21 +20,23 @@
 
 ## 我们的团队
 
-- 一个内部非常协调高效运作的产品技术团队，个个经验老道。
+- 内部协调高效运作的产品技术团队，个个经验老道。
 - 后台老大财付通架构师
 - 技术氛围浓厚，每周分享
 - MAC办公
 - 扁平管理，26+人产品技术团队，每个岗位都高效。
 - 畅所欲言的沟通环境
-- 王者荣耀
 
 ## 我们的前端团队
-- react技术栈，拥抱前沿的技术，且有成熟的技术方案(react react-native es6/7 babel less webpack npm eslint gitlab webstorm shell 等等)
-- 舒适的生产环境，pc只考虑chrome，mobile考虑微信浏览器
-- 重视代码质量，本地eslint检测，发布过code review，同时促进大家互相学习
-- 重视团队的知识分享，事情再小，都有方案设计，都会拿出来分享。
+- react技术栈，拥抱前沿的技术，大胆尝新，有成熟落地的技术方案(react react-native electron es6/7 babel less webpack npm eslint gitlab webstorm shell 等等)
+- 舒适的生产环境，pc只考虑chrome，mobile考虑微信浏览器，没有历史包袱（已被我们清理掉）
+- 重视代码质量，本地eslint检测，发布过code review
+- 重视团队的知识分享，事情再小，都有方案设计，都会拿出来分享
+- 趋向简易化开发，团队化开发，不做复杂事情。反而省下了大量时间做更有意义的事情
 - 工具化，能偷懒则偷懒
 - github组织 https://github.com/gmfe ，大部分库都自己维护，轻便强大。
+- 处事原则 [《三个原则》](https://zhuanlan.zhihu.com/p/20395484)
+- 王者荣耀
 
 ## 地点
 深大地铁附近
@@ -41,15 +45,16 @@
 
 ### react web实习
 
-- 只要基础扎实，对react技术栈感兴趣，你敢来我敢带
-- 其次有台mac
+- 基础扎实，熟悉react技术栈，对前端新技术敏感
+- 用mac开发
+- 有充裕时间实习
 
 ### react web开发
 
 - 熟悉react技术栈，有一定复杂项目经验
 - 丰富的pc web、mobile web开发经验，js、html、css顺手拈来
 - 编程基础扎实，有良好的工作及编程习惯
-- mac开发
+- 用mac开发
 - 进取，合作，主动。
 - 有开源项目、blog、node.js经验更佳
 
