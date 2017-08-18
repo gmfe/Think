@@ -36,7 +36,6 @@
 - 工具化，能偷懒则偷懒
 - github组织 https://github.com/gmfe ，大部分库都自己维护，轻便强大。
 - 处事原则 [《三个原则》](https://zhuanlan.zhihu.com/p/20395484)
-- 王者荣耀
 
 ## 地点
 深大地铁附近
