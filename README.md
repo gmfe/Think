@@ -1,8 +1,10 @@
 
 [招聘](./resume.md)
 
-## 实践
+---
 
-- window.print 后不能跟 window.close 见 [issue](https://github.com/gmfe/Think/issues/31)
+[规范](./standard/README.md)
 
-## [技能树](./skill/README.md)
+[实践](./awesome/README.md)
+
+[技能树](./skill/README.md)

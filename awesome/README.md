@@ -3,6 +3,10 @@
 
 能用简单的思维做就用简单思维做。如果事情复杂了请停下来，可能走错了，发起讨论。肯定有简单的方案的。
 
+## 打印
+ 
+window.print 后不能跟 window.close 见 [issue](https://github.com/gmfe/Think/issues/31)
+
 ### css类
 
 库提供了很多类，尽量用类来组织UI，特别的可以写 style 或者 自己起 less。
