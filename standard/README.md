@@ -1,4 +1,3 @@
-Welcome to the Think wiki!
 
 [观麦git工作流规范](./git)
 
