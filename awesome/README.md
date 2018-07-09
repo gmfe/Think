@@ -4,7 +4,7 @@
 能用简单的思维做就用简单思维做。如果事情复杂了请停下来，可能走错了，发起讨论。肯定有简单的方案的。
 
 ## 打印
- 
+
 window.print 后不能跟 window.close 见 [issue](https://github.com/gmfe/Think/issues/31)
 
 ### css类
@@ -83,3 +83,5 @@ this.props.location.query.adf
 ## 请求
 
 如果指是 undefined null ，Request 会自动清理 delete
+
+传给后台只有 key value ,其中 value 不能是 Array 和 Object，需要 JSON.stringify(xxx)
