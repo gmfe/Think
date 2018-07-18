@@ -3,6 +3,12 @@
 
 能用简单的思维做就用简单思维做。如果事情复杂了请停下来，可能走错了，发起讨论。肯定有简单的方案的。
 
+## 体验
+
+## react-gm
+
+Button 替代 button。体验好，有loading，有防重复点击
+
 ## 打印
 
 window.print 后不能跟 window.close 见 [issue](https://github.com/gmfe/Think/issues/31)
