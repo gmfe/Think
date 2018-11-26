@@ -212,6 +212,8 @@ class Item extends React.Component {
 
 ### 组件静态方法
 
+![suggest][Suggest Icon]
+
 怎么定义propTypes, defaultProps, contextTypes。其位置顺序不要求。
 
 ```jsx
@@ -290,4 +292,4 @@ y = x.plus(0.2)            // '0.3'
 Big(0.7).plus(x).plus(y)   // '1.1'
 ```
 
-[Suggest Icon]: https://rawgit.com/gmfe/standard/master/svg/min-tuijian.svg
+[Suggest Icon]:https://raw.githubusercontent.com/gmfe/Think/master/standard/svg/min-tuijian.svg
