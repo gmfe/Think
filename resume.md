@@ -5,17 +5,15 @@
 
 - React 全家桶，紧跟前沿技术，大胆尝新，且有成熟的一整套落地的技术方案
 - 舒适的生产环境，PC 只考虑 Chrome，Mobile 考虑微信浏览器，历史包袱很少（我们有一直在清理和重构）
-- 超级重视代码质量，积极的 Code Review
+- 重视代码质量，积极的 Code Review
 - 趋向简易化开发，团队化开发，不做复杂事情，反而省下了大量时间做更有意义的事情
 - 工具化，能偷懒则偷懒
 - 弹性工作，不鼓励加班，时间自由
 - 预计扩充到14人团队，目前11人
 - MAC 办公
-- 产品需求文档中有数据库设计建议的产品需求文档，怕不怕
 - Github group https://github.com/gmfe
-- 团队风采 https://github.com/gmfe/Think
-- 原则 [《三个原则》](https://zhuanlan.zhihu.com/p/20395484)
-- 已培养了很多大厂小伙伴，下一个就是你
+- 团队风采 https://github.com/gmfe/Think/issues
+- 原则 [《三个原则》](https://zhuanlan.zhihu.com/p/20395484) https://zhuanlan.zhihu.com/p/20395484
 
 ## 我们寻求的小伙伴
 
