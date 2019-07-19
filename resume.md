@@ -9,7 +9,7 @@
 - 趋向简易化开发，团队化开发，不做复杂事情，反而省下了大量时间做更有意义的事情
 - 工具化，能偷懒则偷懒
 - 弹性工作，不鼓励加班，时间自由
-- 预计扩充到14人团队，目前11人
+- 团队14人
 - MAC 办公
 - Github group https://github.com/gmfe
 - 团队风采 https://github.com/gmfe/Think/issues
