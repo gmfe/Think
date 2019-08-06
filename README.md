@@ -11,6 +11,8 @@
 
 ## 指引
 
+[开发](./awesome/dev.md)
+
 [多语开发指引](./awesome/i18n.md)
 
 [移动](./awesome/mobile.md)
